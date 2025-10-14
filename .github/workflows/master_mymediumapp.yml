@@ -63,4 +63,4 @@ jobs:
         with:
           app-name: 'mymediumapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0769C71B179E40458E3FA89BC0CDBE48 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_29623E42378E48489B593856190431E6 }}
