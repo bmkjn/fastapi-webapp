@@ -1,1 +1,0 @@
-unicorn -w 4 -k uvicorn.workers.UvicornWorker basic:app
