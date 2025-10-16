@@ -1,2 +1,5 @@
 fastapi
 uvicorn
+azure-monitor-opentelemetry-exporter
+opentelemetry-sdk
+opentelemetry-instrumentation
