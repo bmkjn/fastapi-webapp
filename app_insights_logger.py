@@ -4,7 +4,7 @@ from opentelemetry.sdk.trace import TracerProvider
 from opentelemetry.sdk.trace.export import BatchSpanProcessor
 from azure.monitor.opentelemetry.exporter import AzureMonitorTraceExporter
 
-# Set up tracing
+# Setting up tracing
 trace.set_tracer_provider(TracerProvider())
 tracer = trace.get_tracer(__name__)
 
