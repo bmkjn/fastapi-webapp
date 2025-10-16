@@ -1,2 +1,5 @@
 fastapi
 uvicorn
+opencensus
+opencensus-ext-azure
+typing-extensions
